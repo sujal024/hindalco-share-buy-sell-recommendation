@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "name": "HINDALCO_0",
+    "description": "Price data for day 0"
+  },
+  {
+    "id": 2,
+    "name": "HINDALCO_1",
+    "description": "Price data for day 1"
+  },
+  {
+    "id": 3,
+    "name": "HINDALCO_2",
+    "description": "Price data for day 2"
+  },
+  {
+    "id": 4,
+    "name": "HINDALCO_3",
+    "description": "Price data for day 3"
+  },
+  {
+    "id": 5,
+    "name": "HINDALCO_4",
+    "description": "Price data for day 4"
+  },
+  {
+    "id": 6,
+    "name": "HINDALCO_5",
+    "description": "Price data for day 5"
+  },
+  {
+    "id": 7,
+    "name": "HINDALCO_6",
+    "description": "Price data for day 6"
+  },
+  {
+    "id": 8,
+    "name": "HINDALCO_7",
+    "description": "Price data for day 7"
+  },
+  {
+    "id": 9,
+    "name": "HINDALCO_8",
+    "description": "Price data for day 8"
+  },
+  {
+    "id": 10,
+    "name": "HINDALCO_9",
+    "description": "Price data for day 9"
+  }
+]

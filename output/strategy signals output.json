@@ -1,0 +1,18 @@
+{
+  "signals": [
+    {
+      "price": 100,
+      "signal": "SELL"
+    },
+    {
+      "price": 106.16615734119613,
+      "signal": "BUY"
+    }
+  ],
+  "summary": {
+    "total_signals": 2,
+    "buy_signals": 1,
+    "sell_signals": 1,
+    "current_position": "BUY"
+  }
+}

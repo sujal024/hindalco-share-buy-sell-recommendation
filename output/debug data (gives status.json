@@ -1,0 +1,8 @@
+{
+  "status": "success",
+  "connection": "working",
+  "tables": [
+    "items"
+  ],
+  "record_count": 802
+}

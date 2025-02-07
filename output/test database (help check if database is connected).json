@@ -1,0 +1,5 @@
+{
+  "status": "Connected",
+  "test_query": "Success",
+  "database_url": "postgresql://postgres:****@db:5432/hindalcodata"
+}
