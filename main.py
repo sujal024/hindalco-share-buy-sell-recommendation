@@ -193,7 +193,7 @@ def get_trading_signals(
         df['SMA_long'] = df['price'].rolling(window=long_period).mean()
         
         # Generate signals
-        df['signal'] = 0  # 0 = hold, 1 = buy, -1 = sell
+        df['signal'] = 0 
         df.loc[df['SMA_short'] > df['SMA_long'], 'signal'] = 1
         df.loc[df['SMA_short'] < df['SMA_long'], 'signal'] = -1
         
