@@ -3,6 +3,7 @@ Overview
 Based on historical data analysis, this project implements a stock trading strategy that recommends buy and sell signals for Hindalco Industries' stock. It leverages advanced technical analysis techniques to identify profitable trading opportunities and provides structured insights for informed decision-making.  
 
 Technologies Used:  
+* Postgresql to retrive and manage data
 * FastAPI  
 * Docker for containerization  
 * Data Analysis and Manipulation: Pandas, NumPy  
